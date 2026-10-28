@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
   <title id="title">Govind Pokuri</title>
   <desc id="desc">Technical Manager. C#, .NET, Azure, enterprise SaaS and AI applications.</desc>
   <defs>
@@ -11,15 +11,15 @@
       <stop offset="1" stop-color="#68baff"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="280" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="240" rx="20" fill="url(#background)"/>
   <circle cx="1120" cy="12" r="190" fill="#183f55" opacity=".55"/>
   <circle cx="1120" cy="12" r="132" fill="none" stroke="#355e74" opacity=".55"/>
   <circle cx="1120" cy="12" r="77" fill="none" stroke="#43758b" opacity=".55"/>
-  <rect x="52" y="44" width="52" height="5" rx="2.5" fill="url(#accent)"/>
+  <rect x="52" y="32" width="52" height="5" rx="2.5" fill="url(#accent)"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="52" y="84" fill="#76e4d7" font-size="16" letter-spacing="3">TECHNICAL MANAGER &amp; PRODUCT BUILDER</text>
-    <text x="48" y="151" fill="#f4f8ff" font-size="58" font-weight="700">Govind Pokuri</text>
-    <text x="52" y="194" fill="#d0dce9" font-size="23">C# / .NET · Azure · Enterprise SaaS · AI applications</text>
-    <text x="52" y="243" fill="#a6bfd0" font-size="17">11+ years of engineering experience · Team leadership · End-to-end delivery</text>
+    <text x="52" y="70" fill="#76e4d7" font-size="16" letter-spacing="3">TECHNICAL MANAGER &amp; PRODUCT BUILDER</text>
+    <text x="48" y="132" fill="#f4f8ff" font-size="56" font-weight="700">Govind Pokuri</text>
+    <text x="52" y="174" fill="#d0dce9" font-size="23">C# / .NET · Azure · Enterprise SaaS · AI applications</text>
+    <text x="52" y="214" fill="#a6bfd0" font-size="18">From business workflows to production software.</text>
   </g>
 </svg>
