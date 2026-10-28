@@ -7,8 +7,8 @@
 **AI-assisted development / vibe coding:** turning product ideas into working,
 tested software with Codex and hands-on engineering.
 
-I build software for real business workflows: signing documents, managing HR
-compliance and turning live speech into useful AI assistance. My work spans
+I build software for real business workflows: recruiting, signing documents,
+managing HR compliance and turning live speech into useful AI assistance. My work spans
 solution design, backend development, integrations, cloud deployment and team leadership.
 
 | Experience | Leadership | Delivery |
@@ -45,6 +45,23 @@ An illustrative walkthrough of the actual Windows interface, using fictional
 content. See the repository for setup requirements and limitations.
 
 </details>
+
+### Reccopilot (OnBlick Talent) — manual ATS workflows and AI-powered recruiting
+
+Built features for a multi-tenant **ATS + CRM** used by staffing and enterprise
+recruiting teams. Reccopilot combines recruiter-controlled workflows with
+AI-powered recruiting assistance, covering job creation and sourcing through
+screening, assessments, interviews and offer acceptance.
+
+- **Recruiting operations:** jobs, candidate pipelines, submissions, vendor/VMS workflows and offer/e-sign handoff.
+- **Candidate experience:** public screening forms, resume uploads, video introductions, chunked video uploads and assessments.
+- **Performance and reliability:** candidate search/list API improvements using MongoDB projections and indexes, plus public-link handling and expiry/error experiences.
+- **Integrations and delivery:** Microsoft 365 / Teams recording sync and playback, branded resume/video share pages, background workers and Azure DevOps deployment pipelines.
+
+**Stack:** .NET 8 / ASP.NET Core, Vue 3, TypeScript, PrimeVue, MongoDB,
+Microsoft Graph / Teams, Azure App Service and Azure DevOps.
+
+[Explore Reccopilot](https://talent.reccopilot.com)
 
 ### eSignRight — digital signing and document management
 
@@ -116,7 +133,8 @@ review, testing, configuration and release decisions.
 | **Backend and APIs** | C#, ASP.NET Core, MVC, REST, Entity Framework Core, LINQ |
 | **Cloud and delivery** | Azure App Service, identity, Storage, Application Insights, Azure DevOps, Git, IIS |
 | **Data** | SQL Server, MongoDB, MySQL |
-| **Web and desktop** | JavaScript, HTML/CSS, jQuery, WPF; experience with Vue.js and Angular |
+| **Web and desktop** | Vue 3, TypeScript, PrimeVue, JavaScript, HTML/CSS, jQuery, WPF; experience with Angular |
+| **Recruiting and integrations** | Multi-tenant ATS/CRM, candidate screening, vendor workflows, Microsoft Graph / Teams, chunked uploads |
 | **Documents and AI** | pdf.js, iText7, PdfSharpCore, RDLC, Whisper, Azure AI |
 | **AI-assisted development** | Codex, prompt-driven prototyping, iterative debugging, code review and regression checks |
 
