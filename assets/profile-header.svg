@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
   <title id="title">Govind Pokuri</title>
-  <desc id="desc">Technical Manager. C#, .NET, Azure, enterprise SaaS and AI applications.</desc>
+  <desc id="desc">Technical Manager. C#, .NET, Azure, enterprise SaaS and AI-assisted development.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#0d172a"/>
@@ -19,7 +19,7 @@
   <g font-family="Segoe UI, Arial, sans-serif">
     <text x="52" y="70" fill="#76e4d7" font-size="16" letter-spacing="3">TECHNICAL MANAGER &amp; PRODUCT BUILDER</text>
     <text x="48" y="132" fill="#f4f8ff" font-size="56" font-weight="700">Govind Pokuri</text>
-    <text x="52" y="174" fill="#d0dce9" font-size="23">C# / .NET · Azure · Enterprise SaaS · AI applications</text>
+    <text x="52" y="174" fill="#d0dce9" font-size="23">C# / .NET · Azure · Enterprise SaaS · AI-assisted development</text>
     <text x="52" y="214" fill="#a6bfd0" font-size="18">From business workflows to production software.</text>
   </g>
 </svg>

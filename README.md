@@ -4,6 +4,9 @@
 
 **Technical Manager at RIG Enterprise Applications · .NET & Azure · SaaS & AI products**
 
+**AI-assisted development / vibe coding:** turning product ideas into working,
+tested software with Codex and hands-on engineering.
+
 I build software for real business workflows: signing documents, managing HR
 compliance and turning live speech into useful AI assistance. My work spans
 solution design, backend development, integrations, cloud deployment and team leadership.
@@ -68,12 +71,14 @@ Vue.js and Azure DevOps.
 <details>
 <summary><strong>Earlier projects</strong> — HR Systems, Season Bus CRM and public code</summary>
 
-**HR Systems · June 2015 - March 2016**  
+**HR Systems · June 2015 - March 2016**
+
 Employee attendance, leave, appraisals, roles, payslips and reporting, with
 biometric, QR and facial-recognition integrations. Contributed C# application
 code, SQL stored procedures, notifications and deployment.
 
-**Season Bus CRM · November 2014 - May 2015**  
+**Season Bus CRM · November 2014 - May 2015**
+
 Registration, driver/attendant management, route assignments, call-center
 workflows and reports for a Singapore school-transport business. Worked on
 ASP.NET UI, C# business logic, database design and SQL stored procedures.
@@ -88,6 +93,22 @@ is not included in this profile repository.
 
 </details>
 
+## How I build: AI-assisted development
+
+I combine my .NET experience with **AI-assisted development (vibe coding)** to
+prototype, debug and refine products. With Codex, I describe the problem, work
+through implementation choices, check the result and iterate from real usage.
+
+Ansora AI shows that progression:
+
+1. **Prototype:** a Windows assistant with caller transcription and AI answers.
+2. **Refine:** improve answer tone, question handling, UI responsiveness and token controls.
+3. **Productize:** add sign-in, payments, usage balances, email, administration and installer/update flows.
+4. **Share:** prepare the MIT Community edition, configuration examples, documentation, automated checks and a portable release.
+
+I use AI to accelerate implementation while keeping responsibility for code
+review, testing, configuration and release decisions.
+
 ## Engineering toolkit
 
 | Focus | Technologies |
@@ -97,6 +118,7 @@ is not included in this profile repository.
 | **Data** | SQL Server, MongoDB, MySQL |
 | **Web and desktop** | JavaScript, HTML/CSS, jQuery, WPF; experience with Vue.js and Angular |
 | **Documents and AI** | pdf.js, iText7, PdfSharpCore, RDLC, Whisper, Azure AI |
+| **AI-assisted development** | Codex, prompt-driven prototyping, iterative debugging, code review and regression checks |
 
 ## Engineering notes
 
@@ -113,7 +135,8 @@ Explore the implementation and practical setup behind Ansora AI:
 Solution design, delivery planning, integrations, team coordination, production
 support and release management.
 
-**Best Employee:** 2023 and 2024 · **Best Team Leader:** 2022 · **Leadership Impact:** 2021  
+**Best Employee:** 2023 and 2024 · **Best Team Leader:** 2022 · **Leadership Impact:** 2021
+
 **Education:** B.Tech in Information Technology, ANU, 2012.
 
 Interested in .NET engineering, enterprise SaaS, document automation or practical
